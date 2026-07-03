@@ -10,6 +10,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Chaithanya-7/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0048-rotate-image](https://github.com/Chaithanya-7/Leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Chaithanya-7/Leetcode/tree/master/0054-spiral-matrix) |
+| [0075-sort-colors](https://github.com/Chaithanya-7/Leetcode/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/Chaithanya-7/Leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Chaithanya-7/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0169-majority-element](https://github.com/Chaithanya-7/Leetcode/tree/master/0169-majority-element) |
@@ -26,6 +27,7 @@
 | [0015-3sum](https://github.com/Chaithanya-7/Leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Chaithanya-7/Leetcode/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Chaithanya-7/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/Chaithanya-7/Leetcode/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/Chaithanya-7/Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Chaithanya-7/Leetcode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Chaithanya-7/Leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -59,6 +61,7 @@
 | ------- |
 | [0015-3sum](https://github.com/Chaithanya-7/Leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Chaithanya-7/Leetcode/tree/master/0018-4sum) |
+| [0075-sort-colors](https://github.com/Chaithanya-7/Leetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Chaithanya-7/Leetcode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Chaithanya-7/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Chaithanya-7/Leetcode/tree/master/0349-intersection-of-two-arrays) |

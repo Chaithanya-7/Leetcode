@@ -16,6 +16,7 @@
 | [0119-pascals-triangle-ii](https://github.com/Chaithanya-7/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0169-majority-element](https://github.com/Chaithanya-7/Leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Chaithanya-7/Leetcode/tree/master/0189-rotate-array) |
+| [0209-minimum-size-subarray-sum](https://github.com/Chaithanya-7/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/Chaithanya-7/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Chaithanya-7/Leetcode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Chaithanya-7/Leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -51,6 +52,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Chaithanya-7/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/Chaithanya-7/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Chaithanya-7/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 ## Bit Manipulation
@@ -82,6 +84,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Chaithanya-7/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Chaithanya-7/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Simulation
 |  |
@@ -99,4 +102,8 @@
 | [0053-maximum-subarray](https://github.com/Chaithanya-7/Leetcode/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/Chaithanya-7/Leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Chaithanya-7/Leetcode/tree/master/0119-pascals-triangle-ii) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Chaithanya-7/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->

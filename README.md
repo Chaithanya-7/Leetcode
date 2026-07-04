@@ -18,6 +18,7 @@
 | [0169-majority-element](https://github.com/Chaithanya-7/Leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Chaithanya-7/Leetcode/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Chaithanya-7/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0229-majority-element-ii](https://github.com/Chaithanya-7/Leetcode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Chaithanya-7/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Chaithanya-7/Leetcode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Chaithanya-7/Leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -48,6 +49,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Chaithanya-7/Leetcode/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/Chaithanya-7/Leetcode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Chaithanya-7/Leetcode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Chaithanya-7/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Chaithanya-7/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Chaithanya-7/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -68,6 +70,7 @@
 | [0018-4sum](https://github.com/Chaithanya-7/Leetcode/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/Chaithanya-7/Leetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Chaithanya-7/Leetcode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Chaithanya-7/Leetcode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Chaithanya-7/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Chaithanya-7/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 ## Divide and Conquer
@@ -79,6 +82,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Chaithanya-7/Leetcode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Chaithanya-7/Leetcode/tree/master/0229-majority-element-ii) |
 ## String
 |  |
 | ------- |

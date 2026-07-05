@@ -24,6 +24,7 @@
 | [0283-move-zeroes](https://github.com/Chaithanya-7/Leetcode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Chaithanya-7/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/Chaithanya-7/Leetcode/tree/master/0485-max-consecutive-ones) |
+| [0493-reverse-pairs](https://github.com/Chaithanya-7/Leetcode/tree/master/0493-reverse-pairs) |
 | [0645-set-mismatch](https://github.com/Chaithanya-7/Leetcode/tree/master/0645-set-mismatch) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Chaithanya-7/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/Chaithanya-7/Leetcode/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
@@ -63,6 +64,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/Chaithanya-7/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/Chaithanya-7/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Chaithanya-7/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0493-reverse-pairs](https://github.com/Chaithanya-7/Leetcode/tree/master/0493-reverse-pairs) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -84,6 +86,7 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/Chaithanya-7/Leetcode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Chaithanya-7/Leetcode/tree/master/0169-majority-element) |
+| [0493-reverse-pairs](https://github.com/Chaithanya-7/Leetcode/tree/master/0493-reverse-pairs) |
 ## Counting
 |  |
 | ------- |
@@ -118,4 +121,20 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Chaithanya-7/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Chaithanya-7/Leetcode/tree/master/0493-reverse-pairs) |
+## Segment Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Chaithanya-7/Leetcode/tree/master/0493-reverse-pairs) |
+## Merge Sort
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Chaithanya-7/Leetcode/tree/master/0493-reverse-pairs) |
+## Ordered Set
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Chaithanya-7/Leetcode/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->

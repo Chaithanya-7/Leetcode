@@ -23,6 +23,7 @@
 | [0283-move-zeroes](https://github.com/Chaithanya-7/Leetcode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Chaithanya-7/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/Chaithanya-7/Leetcode/tree/master/0485-max-consecutive-ones) |
+| [0645-set-mismatch](https://github.com/Chaithanya-7/Leetcode/tree/master/0645-set-mismatch) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Chaithanya-7/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/Chaithanya-7/Leetcode/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 ## Two Pointers
@@ -52,6 +53,7 @@
 | [0229-majority-element-ii](https://github.com/Chaithanya-7/Leetcode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Chaithanya-7/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Chaithanya-7/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0645-set-mismatch](https://github.com/Chaithanya-7/Leetcode/tree/master/0645-set-mismatch) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Chaithanya-7/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Binary Search
 |  |
@@ -63,6 +65,7 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Chaithanya-7/Leetcode/tree/master/0268-missing-number) |
+| [0645-set-mismatch](https://github.com/Chaithanya-7/Leetcode/tree/master/0645-set-mismatch) |
 ## Sorting
 |  |
 | ------- |
@@ -73,6 +76,7 @@
 | [0229-majority-element-ii](https://github.com/Chaithanya-7/Leetcode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Chaithanya-7/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Chaithanya-7/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0645-set-mismatch](https://github.com/Chaithanya-7/Leetcode/tree/master/0645-set-mismatch) |
 ## Divide and Conquer
 |  |
 | ------- |

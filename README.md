@@ -150,4 +150,8 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Chaithanya-7/Leetcode/tree/master/0128-longest-consecutive-sequence) |
+## Database
+|  |
+| ------- |
+| [0595-big-countries](https://github.com/Chaithanya-7/Leetcode/tree/master/0595-big-countries) |
 <!---LeetCode Topics End-->

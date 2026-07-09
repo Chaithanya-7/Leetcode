@@ -154,4 +154,5 @@
 |  |
 | ------- |
 | [0595-big-countries](https://github.com/Chaithanya-7/Leetcode/tree/master/0595-big-countries) |
+| [1729-find-followers-count](https://github.com/Chaithanya-7/Leetcode/tree/master/1729-find-followers-count) |
 <!---LeetCode Topics End-->

@@ -36,6 +36,7 @@
 | [0645-set-mismatch](https://github.com/Chaithanya-7/Leetcode/tree/master/0645-set-mismatch) |
 | [0875-koko-eating-bananas](https://github.com/Chaithanya-7/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Chaithanya-7/Leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Chaithanya-7/Leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Chaithanya-7/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/Chaithanya-7/Leetcode/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 ## Two Pointers
@@ -87,6 +88,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/Chaithanya-7/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0875-koko-eating-bananas](https://github.com/Chaithanya-7/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Chaithanya-7/Leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Chaithanya-7/Leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 ## Bit Manipulation
 |  |
 | ------- |

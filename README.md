@@ -41,6 +41,7 @@
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Chaithanya-7/Leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Chaithanya-7/Leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Chaithanya-7/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2643-row-with-maximum-ones](https://github.com/Chaithanya-7/Leetcode/tree/master/2643-row-with-maximum-ones) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/Chaithanya-7/Leetcode/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 ## Two Pointers
 |  |
@@ -142,6 +143,7 @@
 | ------- |
 | [0048-rotate-image](https://github.com/Chaithanya-7/Leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Chaithanya-7/Leetcode/tree/master/0054-spiral-matrix) |
+| [2643-row-with-maximum-ones](https://github.com/Chaithanya-7/Leetcode/tree/master/2643-row-with-maximum-ones) |
 ## Dynamic Programming
 |  |
 | ------- |

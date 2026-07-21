@@ -30,6 +30,7 @@
 | [0189-rotate-array](https://github.com/Chaithanya-7/Leetcode/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Chaithanya-7/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0229-majority-element-ii](https://github.com/Chaithanya-7/Leetcode/tree/master/0229-majority-element-ii) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Chaithanya-7/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Chaithanya-7/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Chaithanya-7/Leetcode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Chaithanya-7/Leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -90,6 +91,7 @@
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Chaithanya-7/Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/Chaithanya-7/Leetcode/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/Chaithanya-7/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Chaithanya-7/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Chaithanya-7/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Chaithanya-7/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0410-split-array-largest-sum](https://github.com/Chaithanya-7/Leetcode/tree/master/0410-split-array-largest-sum) |
@@ -120,6 +122,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/Chaithanya-7/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/Chaithanya-7/Leetcode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Chaithanya-7/Leetcode/tree/master/0169-majority-element) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Chaithanya-7/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0493-reverse-pairs](https://github.com/Chaithanya-7/Leetcode/tree/master/0493-reverse-pairs) |
 ## Counting
 |  |
@@ -146,6 +149,7 @@
 | [0048-rotate-image](https://github.com/Chaithanya-7/Leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Chaithanya-7/Leetcode/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/Chaithanya-7/Leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Chaithanya-7/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [2643-row-with-maximum-ones](https://github.com/Chaithanya-7/Leetcode/tree/master/2643-row-with-maximum-ones) |
 ## Dynamic Programming
 |  |

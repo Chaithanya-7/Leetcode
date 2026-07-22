@@ -63,6 +63,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Chaithanya-7/Leetcode/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/Chaithanya-7/Leetcode/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/Chaithanya-7/Leetcode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/Chaithanya-7/Leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Chaithanya-7/Leetcode/tree/master/0268-missing-number) |
@@ -196,4 +197,8 @@
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/Chaithanya-7/Leetcode/tree/master/0410-split-array-largest-sum) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/Chaithanya-7/Leetcode/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->

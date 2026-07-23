@@ -45,6 +45,7 @@
 | [1901-find-a-peak-element-ii](https://github.com/Chaithanya-7/Leetcode/tree/master/1901-find-a-peak-element-ii) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Chaithanya-7/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2643-row-with-maximum-ones](https://github.com/Chaithanya-7/Leetcode/tree/master/2643-row-with-maximum-ones) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/Chaithanya-7/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/Chaithanya-7/Leetcode/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 ## Two Pointers
 |  |
@@ -67,6 +68,7 @@
 | [0069-sqrtx](https://github.com/Chaithanya-7/Leetcode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/Chaithanya-7/Leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Chaithanya-7/Leetcode/tree/master/0268-missing-number) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/Chaithanya-7/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Chaithanya-7/Leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Hash Table
 |  |
@@ -108,6 +110,7 @@
 | ------- |
 | [0268-missing-number](https://github.com/Chaithanya-7/Leetcode/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/Chaithanya-7/Leetcode/tree/master/0645-set-mismatch) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/Chaithanya-7/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## Sorting
 |  |
 | ------- |

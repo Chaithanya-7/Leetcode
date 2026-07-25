@@ -138,6 +138,7 @@
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Chaithanya-7/Leetcode/tree/master/0022-generate-parentheses) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Chaithanya-7/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Sliding Window
 |  |
@@ -161,6 +162,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Chaithanya-7/Leetcode/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/Chaithanya-7/Leetcode/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/Chaithanya-7/Leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Chaithanya-7/Leetcode/tree/master/0119-pascals-triangle-ii) |
@@ -204,4 +206,8 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Chaithanya-7/Leetcode/tree/master/0050-powx-n) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Chaithanya-7/Leetcode/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->

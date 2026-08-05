@@ -214,4 +214,8 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/Chaithanya-7/Leetcode/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/Chaithanya-7/Leetcode/tree/master/0039-combination-sum) |
+## Linked List
+|  |
+| ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/Chaithanya-7/Leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
